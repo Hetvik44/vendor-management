@@ -1,0 +1,10 @@
+.env
+.DS_Store
+.idea/
+*.pyc
+*local_settings.py
+media/
+*vendor_management.log*
+venv
+*.sqlite3
+static/
